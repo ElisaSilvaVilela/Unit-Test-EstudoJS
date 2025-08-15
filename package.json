@@ -1,0 +1,15 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "Curso complementar de JavaScript básico para QA, lecionado pelo Walmyr Lima no canal do YouTube Talking About Testing. Repositório criado para armazenar o conteúdo ensinado nas aula, na intenção de reforça o entendimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0"
+  }
+}
